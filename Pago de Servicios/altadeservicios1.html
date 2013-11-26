@@ -1,0 +1,212 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<title>Alta de Servicios1</title>
+<link rel="stylesheet" href="../css/widgets.css" />
+
+<script src="../js/jquery10.2.min.js"></script>
+<script src="../js/ddSlick.js"></script>
+<script src="../js/balanceTransfer.js"></script>
+
+
+
+
+<style>
+
+.btnHeaderTable{
+	height: 24px;
+    margin: -10px;
+    padding-top: 10px;
+    width: 110px;
+}
+
+.titTabla{
+	margin-bottom:0px;
+	padding:10px 10px 5px 30px;
+	border:1px solid black;
+	border-bottom:0;
+	float:left;
+	width:678px;
+	background:#F4F4F4;
+	margin-top:20px;
+	height:20px;
+	font-weight:bold
+}
+
+.titTabla p{
+	float:left;
+}
+
+.titTabla img{
+	float:right;
+	margin-top:-7px;
+	cursor: pointer;
+}
+</style>
+</head>
+
+<body>
+	
+	<div id="widget">
+		<div id="titulo">
+			<p class="f_titleWid">PAGO <br />
+				DE SERVICIOS</p>
+
+		</div>
+		<div id="header">
+			<div class="btnHeader">
+				<img src="../img/botones/btn_cerrar.png"/>
+			</div>
+			<div class="btnHeader">
+				<img src="../img/botones/info_.png"/>
+			</div>
+		</div>
+		<div id="contenido">
+			<h5 style="text-align: center; color:#FF0D37;">Para realizar la búsqueda del servicio a dar de alta, ingrese la siguiente
+				información de manera individual o en conjunto.</h5>
+				
+			<div class="cont">
+				
+				<div class="input" style="margin-left:10px">
+					<p>Nombre de la empresa o razón social</p>
+					<input name="Text1" type="text" value=" Empresa" class="txtbox" />
+				</div>
+				
+				<div class="input">
+					<p>Convenio</p>
+					<input name="Text1" type="text" value=" 1234" class="txtbox" />
+				</div>
+				
+				<div class="input" style="margin-left:10px">
+				
+					<p>Categoría</p>
+					<div class="wra_Select2" style="margin-top:5px">
+						<select name="" id="" >
+                            <option value="">Opcion1</option>
+                            <option value="">Opcion1</option>
+                            <option value="">Opcion1</option>
+                            <option value="">Opcion1</option>
+                            <option value="">Opcion1</option>
+                    	</select>
+					</div>
+				</div>
+				
+				<div class="input" >
+					
+					<p>Categoría</p>
+					<div class="wra_Select2" style="margin-top:5px">
+						<select name="" id="">
+                            <option value="">Opcion1</option>
+                            <option value="">Opcion1</option>
+                            <option value="">Opcion1</option>
+                            <option value="">Opcion1</option>
+                            <option value="">Opcion1</option>
+            			</select>
+			
+					</div>
+				</div>
+				
+				<p style="float:left; margin:10px 0 0 10px;font-family:Arial, Helvetica, sans-serif">Listado de los 20 servicios de (Categoría) más utilizados en el D.F. </p>
+				
+				
+				<div id="slider">
+					
+					<div style="width:680px;overflow: hidden;height:85px">
+						<div style="width:910px;overflow: hidden">
+							<div class="servslide"></div>
+							<div class="servslide"></div>
+							<div class="servslide"></div>
+							<div class="servslide"></div>
+							<div class="servslide"></div>
+							<div class="servslide"></div>
+							<div class="servslide"></div>
+							<div class="servslide"></div>
+							<div class="servslide"></div>
+							<div class="servslide"></div>
+							<div class="servslide"></div>
+							<div class="servslide"></div>
+							<div class="servslide"></div>
+							<div class="servslide"></div>
+						</div>
+					
+					</div>	
+					<div id="rightarrow"><img src="../img/botones/flecha_lado_dropdown_largo.png"></div>
+										
+				</div>
+			
+			</div>
+			
+			<div class="cont" style="margin-top:10px; height:90px">
+			
+				<table style="margin:10px 0 0 10px; width:100%">
+					<tr>
+						<td style="width:50%"><p class="input" style="margin-left:0px;">Servicio seleccionado:</p></td>
+						<td rowspan="2" style="width:50%"><img src="../img/servicio.png" /></td>
+					</tr>
+					<tr>
+						<td><input name="Text1" type="text" value="Lorem ipsum dolor asimet" class="txtbox" style="width:90%" /></td>
+						
+					</tr>
+				</table>
+			
+			</div>
+			
+			<div class="botonera" style="width:auto; margin-right:20px;">
+				<div class="btn">Cancelar</div>
+				<div class="btnaceptar">Dar de alta</div>	
+			</div>
+			
+			<!--<table class="tbl_">
+
+				<tr>
+					<td colspan="3">Nombre comercial o razón social del servicio</td>
+					<td style="color:#CCCCCC">Lorem Ipsum</td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td colspan="3" >Número de Convenio:</td>
+					<td style="color:#CCCCCC">12345</td>
+				</tr>
+				<tr>
+					<td colspan="3" >Fecha y hora de baja:</td>
+					<td style="color:#CCCCCC">dd/mm/aaaa 00:00</td>
+				</tr>
+				<tr>
+					<td colspan="3" >Folio SuperNet</td>
+					<td style="color:#CCCCCC">1234567892345</td>
+					
+				</tr>
+				<tr>
+					<td colspan="5" ><div class="btn" style="margin:0; padding:0;height:30px">Quiero dar de baja<br />otro servicio</div></td>
+					
+				</tr>
+				
+
+				
+			</table>-->
+		
+
+		</div>
+		
+		<div id="navegador">
+			<ul>
+				<li>Pago de Servicios</li>
+				<li class="active">Alta de Servicios</li>
+				<li>Consulta de Servicios</li>
+				<li>Consulta de pagos<br/>Realizados/Programados</li>
+
+			</ul>
+			<div class="aviso"><img src="../img/iconos/img_msj.png" /><div>
+		</div>
+		
+		
+		
+	</div>
+
+</body>
+
+</html>

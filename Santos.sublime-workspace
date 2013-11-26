@@ -1,0 +1,668 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margen",
+				"margenTop"
+			],
+			[
+				"he",
+				"height	height"
+			],
+			[
+				"div",
+				"divVisible"
+			],
+			[
+				"slide",
+				"slideDown	.slideDown()"
+			],
+			[
+				"mouse",
+				"mouseleave	mouseleave"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"sub",
+				"sub2Nav"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"wid",
+				"width:   (property)"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"button",
+				"buttonNav"
+			],
+			[
+				"prinCon",
+				"prinContLeft"
+			],
+			[
+				"cont",
+				"contBanner"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"paddin",
+				"padding-top:   (property)"
+			],
+			[
+				"backgro",
+				"background"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"fade",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass"
+			],
+			[
+				"sli",
+				"slideUp	.slideUp()"
+			],
+			[
+				"background-",
+				"background-repeat:   (property)"
+			],
+			[
+				"st",
+				"strokeStyle  (variable)"
+			],
+			[
+				"slid",
+				"slideDown	.slideDown()"
+			],
+			[
+				"no",
+				"no-repeat  (value)"
+			],
+			[
+				"html",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"la",
+				"last-child  (pseudo-class)"
+			],
+			[
+				"heade",
+				"headerSeccion"
+			],
+			[
+				"widt",
+				"width:   (property)"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ht",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"scri",
+				"script	<script>"
+			],
+			[
+				"s",
+				"script>  (element)"
+			],
+			[
+				"labelRadio",
+				"labelRadioOff"
+			],
+			[
+				"inputRadioO",
+				"inputRadioOff"
+			],
+			[
+				"labelRa",
+				"labelRadioOn"
+			],
+			[
+				"inputRadio",
+				"inputRadioOn"
+			],
+			[
+				"in",
+				"input	input - radio"
+			],
+			[
+				"add",
+				"addClass	addClass"
+			],
+			[
+				"input",
+				"input	input - checkbox"
+			],
+			[
+				"h",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"wa",
+				"wrappMenu"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"trans",
+				"transition	CSS - transition: ;"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"Slide",
+				"slideToggle  (function)"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"TEXT",
+				"text-transform"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "master.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Snippet: htmlboiler"
+			],
+			[
+				"jquery",
+				"Snippet: Google AJAX Libraries: jQuery"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"INST",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/yomero/Sites/mensajeria/fx.html",
+		"/Users/yomero/Documents/Proyectos1/afirme/AFIRME_PRIVADO/AFIRME_privado/css/styleBancaPriv.css",
+		"/Users/yomero/Documents/Proyectos1/afirme/AFIRME_PRIVADO/AFIRME/js/dropDown.js",
+		"/Users/yomero/Documents/Proyectos1/afirme/AFIRME_PRIVADO/AFIRME/css/styleBancaPriv.css",
+		"/Users/yomero/Documents/Proyectos1/afirme/AFIRME_PRIVADO/AFIRME/index.html",
+		"/Users/yomero/Documents/Proyectos1/afirme/AFIRME_PRIVADO/index.html",
+		"/Users/yomero/Sites/mensajeria/mensajeria.html",
+		"/Users/yomero/Sites/arbor-v0.92/docs/sample-project/style.css",
+		"/Users/yomero/Sites/arbor-v0.92/docs/sample-project/main.js",
+		"/Users/yomero/Sites/arbor-v0.92/docs/sample-project/index.html",
+		"/Users/yomero/Documents/Proyectos1/liverpool/jquery.radar/jquery.radar.js",
+		"/Users/yomero/Documents/Proyectos1/liverpool/jquery.radar/radar.html",
+		"/Users/yomero/Documents/Proyectos1/liverpool/jquery.radar/example.html",
+		"/Users/yomero/Documents/Proyectos/OMNISUITE/OmnisuiteProyect/OmniSuite/maquetaIntegracion/index/mensajeria/fx.html",
+		"/Users/yomero/Documents/Proyectos/OMNISUITE/OmnisuiteProyect/OmniSuite/maqueta ommisuite/pluginsJS/index.html",
+		"/Users/yomero/Documents/Proyectos1/OMNISUITE/demo/src/java/com/omnisuite/servlets/GestionModulos.java",
+		"/Users/yomero/Documents/Proyectos/OMNISUITE/OmnisuiteProyect/OmniSuite/DB/campana/insertsCampanias.sql",
+		"/Users/yomero/Desktop/PGRVIC/mapa.html",
+		"/Users/yomero/Documents/pruebas/pgrDivs/ckeditor.html",
+		"/Users/yomero/Documents/pruebas/ckeditor.html",
+		"/Volumes/YAMIL/Demo/SEP.html",
+		"/Users/yomero/Documents/Proyectos/OMNISUITE/OmnisuiteProyect/OmniSuite/DB/clientes/insertsClientes.sql",
+		"/Users/yomero/Documents/Proyectos/OMNISUITE/OmnisuiteProyect/OmniSuite/maqueta ommisuite/maqueta_omnisuite/Nuevos/layoutComponent.html",
+		"/Users/yomero/Documents/Proyectos/OMNISUITE/OmnisuiteProyect/OmniSuite/maqueta ommisuite/maqueta_omnisuite/Nuevos/layoutComponent",
+		"/Users/yomero/Documents/Proyectos/OMNISUITE/OmnisuiteProyect/OmniSuite/maqueta ommisuite/maqueta_omnisuite/Nuevos/layouts-tablas.html",
+		"/Users/yomero/Documents/Proyectos/OMNISUITE/OmnisuiteProyect/OmniSuite/maqueta ommisuite/maqueta_omnisuite/Nuevos/plantilla-tablas.html",
+		"/Users/yomero/Documents/Proyectos/OMNISUITE/OmnisuiteProyect/OmniSuite/maqueta ommisuite/maqueta_omnisuite/Nuevos/css/main_container.css",
+		"/Users/yomero/Documents/Proyectos/OMNISUITE/OmnisuiteProyect/OmniSuite/maqueta ommisuite/maqueta_omnisuite/Nuevos/css/style-child.css",
+		"/Users/yomero/Documents/Proyectos/OMNISUITE/OmnisuiteProyect/OmniSuite/maqueta ommisuite/maqueta_omnisuite/Nuevos/css/navOmni.css",
+		"/Users/yomero/Documents/Proyectos/OMNISUITE/OmnisuiteProyect/OmniSuite/maquetaIntegracion/wars_machote/main.html",
+		"/Users/yomero/Documents/Proyectos/OMNISUITE/OmnisuiteProyect/OmniSuite/maqueta ommisuite/maqueta_omnisuite/Nuevos/assets/js/script.js",
+		"/Users/yomero/Documents/Proyectos/OMNISUITE/OmnisuiteProyect/OmniSuite/maqueta ommisuite/maqueta_omnisuite/Nuevos/assets/css/style.css",
+		"/Users/yomero/Documents/Proyectos/OMNISUITE/OmnisuiteProyect/OmniSuite/maqueta ommisuite/maqueta_omnisuite/Nuevos/index.html",
+		"/Users/yomero/Documents/Proyectos/OMNISUITE/OmnisuiteProyect/OmniSuite/maqueta ommisuite/maqueta_omnisuite/Nuevos/main.html",
+		"/Users/yomero/Library/Application Support/Sublime Text 2/Packages/Web Inspector/swi.sublime-settings",
+		"/Volumes/NO NAME/santander/maqueta_santander.html",
+		"/Users/yomero/Sites/prueba/css/maqueta_santander.css",
+		"/Users/yomero/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"porcentaje",
+			"alejaElementos",
+			"function",
+			"img",
+			"slideDown",
+			"prinContLeft",
+			"1024112",
+			"navLeft",
+			"contBanner",
+			"prinContLeft",
+			"attr",
+			"fadeOut",
+			"hide",
+			"console.log",
+			"numPasos",
+			"numElement",
+			"numPasos",
+			"alejaElemento",
+			"alejamientos",
+			"fadeIn",
+			"push",
+			"oval",
+			"eachNode",
+			"Graphics",
+			"Render",
+			"Nav",
+			"alone",
+			"2000",
+			"fast",
+			"velocidad",
+			"\"slow\"",
+			"clear: both",
+			"btnNuevo",
+			"aside-item",
+			"tools",
+			"right-menu",
+			"each",
+			"tool-show",
+			"appthumb",
+			"each",
+			"row",
+			"right-menu",
+			"Contenido menu",
+			"Contenido",
+			"Contenido menu",
+			"wd",
+			"aside-item-container",
+			"aside",
+			"aside-item"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"../img"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "master.html",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true
+}

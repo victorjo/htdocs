@@ -1,0 +1,165 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<title>Untitled 1</title>
+<link rel="stylesheet" href="../css/master.css">
+<link rel="stylesheet" href="../css/widgets.css">
+
+<script src="../js/jquery10.2.min.js"></script>
+<script src="../js/ddSlick.js"></script>
+<script src="../js/balanceTransfer.js"></script>
+<script src="../js/utiles.js"></script>
+
+
+
+
+<style>
+.btnHeader{
+	float: right;
+	width: 32px;
+	height: 32px;
+	cursor: pointer;
+	
+	
+}	
+
+.btnHeaderTable{
+	height: 24px;
+    margin: -10px;
+    padding-top: 10px;
+    width: 110px;
+}
+
+.titTabla{
+	margin-bottom:0px;
+	padding:10px 10px 5px 30px;
+	border:1px solid black;
+	border-bottom:0;
+	float:left;
+	width:678px;
+	background:#F4F4F4;
+	margin-top:20px;
+	height:20px;
+	font-weight:bold
+}
+
+.titTabla p{
+	float:left;
+}
+
+.titTabla img{
+	float:right;
+	margin-top:-7px;
+	cursor: pointer;
+}
+</style>
+</head>
+
+<body>
+	
+	<div id="widget">
+		<div id="titulo">
+			<p class="f_titleWid">
+				TRANSFERENCIA <br>
+				DE SALDOS</p>
+
+		</div>
+		<div id="header">
+			<div class="btnHeader">
+				<img src="../img/botones/maximize.png" />
+			</div>
+			<div class="btnHeader">
+				<img src="../img/botones/info.png" />
+
+			</div>
+		</div>
+		<div id="contenido">
+			<h4>1. Realice su transferencia de saldo</h4>
+			<p>Introduzca los datos de la tarjeta de cr&eacute;dito o comercial de la que desea transferir su saldo:</p>
+	
+			<div class="wra_Select">
+			<p><b>N&uacute;mero de tarjeta</b></p>
+			<input type="text"  placeholder="Seleccionar" value="1234***789"/>
+			</div>
+
+			
+			<div class="wra_Select">
+			<p><b>Instituci&oacute;n bancaria o comercial</b></p>
+			<input type="text"  placeholder="Seleccionar" />
+			
+			</div>
+
+			<div class="wra_Select">
+			<p><b>Ingrese el monto que desea transferir</b></p>
+			<input type="text" placeholder="$0.00" value="$9,999,999"/>
+			
+			</div>
+			
+			
+			<div style="float: left; margin-top: 25px;">
+				
+			
+			<h4>2. Realice su transferencia de saldo</h4>
+			<p>A continuaci&oacute;n, seleccione la(s) tarjeta(s) a la(s) que quiere tranferir el saldo:</p>
+		
+			</div>
+
+			<table class="tbl_consulta" style="width:100%;float:left;">
+
+				<tr>
+					<td>Tarjetas de cr&eacute;dito</td>
+					<td>Saldo</td>
+					<td>Saldo a transferir</td>
+					<td>Pago</td>
+					<td>Tasa</td>
+					
+				</tr>
+				<tr>
+					<td>Fecha</td>
+					<td>Tarjeta Destino</td>
+					<td>Tarjeta de Origen</td>
+					<td>Saldo transferido</td>
+					<td>Pago mensual</td>
+					
+				</tr>
+				<tr>
+					<td>Fecha</td>
+					<td>Tarjeta Destino</td>
+					<td>Tarjeta de Origen</td>
+					<td>Saldo transferido</td>
+					<td>Pago mensual</td>
+					
+				</tr>
+				<tr>
+					<td>Fecha</td>
+					<td>Tarjeta Destino</td>
+					<td>Tarjeta de Origen</td>
+					<td>Saldo transferido</td>
+					<td>Pago mensual</td>
+					
+				</tr>
+			</table>
+
+			
+			<div style="float: left;margin-top:20px;">
+			<p class="smallTxt">
+				*El beneficio de la Tasa Preferencial/Promocional tendrá una vigencia de 12 meses; contados a partir del mes en que se realice la transferencia de saldo a la Tarjeta Santander, una vez transcurrido este periodo, si el tarjetahabiente no terminó de liquidar la deuda objeto de la transferencia, el saldo remanente de la deuda será sujeto a las condiciones del saldo revolviste de la tarjeta de Crédito.
+			</p>
+			</div>
+				<div class='btn Fright marginOne' onclick="destruyeOverlay()">Aceptar</div>
+				<div class='btn Fright marginOne' onclick="destruyeOverlay()">Cancelar</div>
+
+		</div>
+		<div id="navegador">
+			<ul>
+				<li class="active">Solicitar</li>
+				<li onclick="creaOverlay('#fff','#contenido',1);creaModal('#contenido',1,'datos.html')">Consultar</li>
+			</ul>
+		</div>
+	</div>
+
+</body>
+
+</html>

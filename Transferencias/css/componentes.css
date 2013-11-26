@@ -1,0 +1,62 @@
+<<<<<<< HEAD
+﻿#switchbox{
+	width:98px;
+	border:1px #a0a0a0 solid;
+	border-radius:5px;
+	height:28px;
+	margin:50px 0 0 50px;
+	float:left;
+	overflow:hidden;
+	
+}
+
+#on{
+	height:23px;
+	width:45px;
+	background-color:#114E02;
+	float:left;
+	color:white;
+	font-size:medium;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	text-align: center;
+	padding-top:5px;
+}
+
+#off{
+	height:23px;
+	width:45px;
+	background-color:#FD1B0F;
+	float:left;
+	color:white;
+	font-size:medium;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	text-align: center;
+	padding-top:5px;
+}
+#tope{
+	height:28px;
+	width:55px;
+	
+	background-color:#CCCCCC;
+	float:left;
+}
+
+#form{
+	color:maroon;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:large;
+	font-weight:bold;
+	margin:50px 0 0 50px;
+	width:200px;
+	float:left;
+}
+
+.acomodo td{
+	border:thin black solid;
+	height:50px;
+}
+=======
+﻿@import "../../css/componentes.css";
+>>>>>>> ce808344fcef7072e120582ce1cf525907bd985a

@@ -1,0 +1,45 @@
+﻿@import url('widgets.css');
+
+/*Estilos propios- Domiciliaciones*/
+
+#Widredu {
+	border:1px solid black;
+	width: 250px;
+	height: 500px;
+	font-size: 13px !important;
+	font-color: #ffffff;
+	margin:auto;
+	overflow: hidden;
+	float: left;
+}
+
+#header {
+	background-color: #000000;
+	font-color: #ffffff;
+	font-weight: bold;
+	width: 250px;
+	height: 35px;
+	float: left;
+}
+
+.h1{
+	color:white;
+	font-size:16;
+	margin-top:10px;
+	margin-left:15px;
+	float:left;
+	font-family:Arial, Helvetica, sans-serif;
+
+}
+
+/*boton - info / Cerrar*/
+.btnHeader{
+	padding: .2em;
+	float: right;
+	cursor: pointer;
+}
+
+.cajaTexto{
+	padding-top: 60px;
+	text-align: center;
+}	

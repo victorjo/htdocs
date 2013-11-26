@@ -1,0 +1,167 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<title>Untitled 1</title>
+<link rel="stylesheet" href="../css/master.css">
+<link rel="stylesheet" href="../css/widgets.css">
+
+<script src="../js/jquery10.2.min.js"></script>
+<script src="../js/ddSlick.js"></script>
+<script src="../js/balanceTransfer.js"></script>
+<script src="../js/utiles.js"></script>
+
+
+
+
+<style>
+.btnHeader{
+	float: right;
+	width: 32px;
+	height: 32px;
+	cursor: pointer;
+	
+	
+}	
+
+.btnHeaderTable{
+	height: 24px;
+    margin: -10px;
+    padding-top: 10px;
+    width: 110px;
+}
+
+.titTabla{
+	margin-bottom:0px;
+	padding:10px 10px 5px 30px;
+	border:1px solid black;
+	border-bottom:0;
+	float:left;
+	width:678px;
+	background:#F4F4F4;
+	margin-top:20px;
+	height:20px;
+	font-weight:bold
+}
+
+.titTabla p{
+	float:left;
+}
+
+.titTabla img{
+	float:right;
+	margin-top:-7px;
+	cursor: pointer;
+}
+</style>
+</head>
+
+<body>
+	
+	<div id="widget">
+		<div id="titulo">
+			<p class="f_titleWid">
+				TRANSFERENCIA <br>
+				DE SALDOS</p>
+
+		</div>
+		<div id="header">
+			<div class="btnHeader">
+				<img src="../img/botones/maximize.png" />
+			</div>
+			<div class="btnHeader">
+				<img src="../img/botones/info.png" />
+
+			</div>
+		</div>
+		<div id="contenido">
+			<h4>1. Consulta de transferencia</h4>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
+	
+			<div class="wra_Select">
+			<select name="" id="" >
+                            
+                            <option value="">Opcion1</option>
+                            <option value="">Opcion1</option>
+                            <option value="">Opcion1</option>
+                            <option value="">Opcion1</option>
+                            <option value="">Opcion1</option>
+                           
+            </select>
+			
+			</div>
+
+			
+			<div class="wra_Select">
+			<select name="" id="" >
+                           
+            </select>
+			
+			</div>
+
+			<div class="wra_Select">
+			<select name="" id="" >
+                            
+                          
+                           
+            </select>
+			
+			</div>
+			
+
+			<div class="titTabla">
+				Mis transferencias de saldo
+			<div class="btnHeader btnHeaderTable">
+				<p>Exportar</p>
+				<img src="../img/botones/exportar.png" />
+			</div>
+				
+			</div>
+
+			<table class="tbl_consulta" style="width:100%;float:left;">
+
+				<tr>
+					<td>Fecha</td>
+					<td>Tarjeta Destino</td>
+					<td>Tarjeta de Origen</td>
+					<td>Saldo transferido</td>
+					<td>Pago mensual</td>
+					<td>Tasa</td>
+					<td>Estatus</td>
+				</tr>
+				<tr>
+					<td>Fecha</td>
+					<td>Tarjeta Destino</td>
+					<td>Tarjeta de Origen</td>
+					<td>Saldo transferido</td>
+					<td>Pago mensual</td>
+					<td>Tasa</td>
+					<td>Estatus</td>
+				</tr>
+				<tr>
+					<td>Fecha</td>
+					<td>Tarjeta Destino</td>
+					<td>Tarjeta de Origen</td>
+					<td>Saldo transferido</td>
+					<td>Pago mensual</td>
+					<td>Tasa</td>
+					<td>Estatus</td>
+				</tr>
+			</table>
+
+
+		</div>
+		<div id="navegador">
+			<ul>
+				<li class="active">Solicitar</li>
+				<li onclick="creaOverlay('#fff','#contenido',1);creaModal('#contenido',1,'datos.html')">Consultar</li>
+			</ul>
+		</div>
+	</div>
+
+</body>
+
+</html>

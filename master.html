@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Santander</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <link rel="stylesheet" type="text/css" href="css/master.css">
+    <link rel="stylesheet" type="text/css" href="css/mouseWheel/mouseWheel.css">
+    <script src="js/jquery10.2.min.js"></script>
+    <script src="js/ddSlick.js"></script>
+    <script src="js/balanceTransfer.js"></script>
+    <script src="js/widgets.js"></script>
+    <script src="js/utiles.js"></script>
+    <script src="js/mouseWheel/jquery.mousewheel.min.js"></script>
+    <script src="js/mouseWheel/jquery.mCustomScrollbar.min.js"></script>
+    <script>
+    $(function(){
+    $.ajax({
+    url:'balance_maquetas/informativo.html',
+    type:'GET',
+    dataType:'html',
+    success: function(res){
+    $('.off').html(res);
+    }
+    })
+    $("select").ddslick({
+    width:"200"
+    });
+
+
+    //$("#wrappWidgets").mCustomScrollbar();
+
+
+    });
+    function activaBtn(obj){
+    $(".ActiveNav").each(function(){
+    $(this).removeClass('ActiveNav').addClass('noActiveNav');
+    });
+    $(obj).addClass('ActiveNav').removeClass('noActiveNav');
+    }
+    </script>
+</head>
+<body>
+    <section id="absoluteWrapper">
+        <div id="wr_PrinHeader" >
+            <div id="logo" class="Fleft">
+                <img src="img/interfaz/logoSantander.png" alt="logotipo banco Santander">
+            </div>
+            <div id="tipoServ" class="Fleft">
+                
+            </div>
+            <div id="dataClient" class="Fleft">
+                <p id="nombre"><b>Santiago Alfonso Pimentel de la Piedra</b></p>
+                <p id="fecha">Fecha de &uacute;ltimo acceso: 23 de Julio del 2013</p>
+                
+            </div>
+            <div id="wr_btnNavHeader" class="Fleft" >
+                <img src="img/interfaz/icono_logout.png" alt="">
+                <img src="img/interfaz/icono_tool.png" alt="">
+                <img src="img/interfaz/icono_ayuda.png" alt="">
+                <img src="img/interfaz/icono_acces.png" alt="">
+                <img src="img/interfaz/icono_buscar.png" alt="">
+            </div>
+        </div>
+        <div id="wr_PrinNivel1">
+            <div id="wr_SuperBanner" class="columnSB Fleft" style="background:red">
+                <img src="img/superBanner.png" alt="Super banner">
+            </div>
+            <div class="wr_NavPrin Fleft">
+                <div id="avatarNavPrin">
+                    <img src="img/menuLateral/avatar.png" alt="avatar supernet">
+                </div>
+                <div id="wr_btnNav" >
+                    <ul>
+                        <li class="btnNav activate" >MI SUPERHOME</li>
+                        <li class="btnNav">Cuentas y chequeras</li>
+                        <li class="btnNav">Tarjetas de Cr&eacute;dito</li>
+                        <li class="btnNav">Cr&eacute;ditos</li>
+                        <li class="btnNav">Inversiones</li>
+                        <li class="btnNav">Pagos y compras</li>
+                        <li class="btnNav">Transferencias</li>
+                        <li class="btnNav">Administraci&oacute;n</li>
+                      </ul>
+                </div>
+                <div id="footer" style="position:relative">
+                    <div style="position:absolute;bottom:20px;left:10px">
+                        <p>Derechos Reservador 2011</p>
+                        <p><b><a href="#">Banco Santander (México) S.A.</a></b></p>
+                        <p>Institución de Banca Múltiple</p>
+                        <p>Grupo Financiero</p>
+                        <p>Santander México</p>
+                        <br>
+                        <p><b><a href="#">AVISO LEGAL</a></b></p>
+                    </div>
+                </div>
+            </div>
+            <div>
+            <div id="wrappWidgets" >
+                    <div class="widget-min col1 altoTotal widget" style="top:10px;left:0px;">
+                        <div class="on">
+                            <div class="cabecera" style="height: 10px; background: none repeat scroll 0% 0% black; color: white; font-size: 12px; padding: 9px;">
+                                <div><p>Administraci&oacute;n de tarjeta</p></div>
+                                <div class="btnCabecera"></div>
+                                <div class="btnCabecera"></div>
+                            </div>
+                            <div style="padding:10px;">
+                                <h6>Seleccione su tarjeta</h6>
+                                <select name="" id="">
+                                    
+                                    <option value="">Opcion1</option>
+                                    <option value="">Opcion1</option>
+                                    <option value="">Opcion1</option>
+                                    <option value="">Opcion1</option>
+                                    <option value="">Opcion1</option>
+                                    
+                                </select>
+                            </div>
+                        </div>
+                        <div class="off" style="display:none">
+                        </div>
+                    </div>
+                    <div class="Fright"  id="navContent">
+                        <!-- <div class="Fright ActiveNav btnNavWidget"></div>
+                        <div class="Fright noActiveNav btnNavWidget" ></div>
+                        <div class="Fright noActiveNav btnNavWidget" ></div>
+                        <div class="Fright noActiveNav btnNavWidget" ></div>-->
+                    </div>
+                    </div>
+            </div>
+            <!-- <div class="widget-min col1 altoTotal" style="top:0px;left:0px;"></div>
+            <div class="widget-min col1 alto2" style="left: 258px;top: 0px;"></div>
+            <div class="widget-min col1 alto2" style="left: 515px;top: 0px;"></div>
+            <div class="widget-min col2 alto2" style="top:298px;left:258px"></div>-->
+        </div>
+        <section>
+        </body>
+    </html>

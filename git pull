@@ -1,0 +1,410 @@
+[33mcommit fb8e729e5c8f1abf02e4d848bc7c41b5cd984a33[m
+Author: Victor Espinosa <im_vicoy@hotmail.com>
+Date:   Thu Nov 21 00:06:11 2013 -0600
+
+    Revision y actializacion de scroll, footer y banner
+
+[33mcommit 55b1dc016a7569c32179909e8436ebf0c8062ea1[m
+Author: Victor Espinosa <victor.espinosa@planetmedia.com.mx>
+Date:   Wed Nov 20 20:23:13 2013 -0600
+
+    "deshabilita scroll"
+
+[33mcommit 9a6511f202d3b0a8b8281e7e568fa6d14ceb4168[m
+Author: Victor Espinosa <victor.espinosa@planetmedia.com.mx>
+Date:   Wed Nov 20 20:04:16 2013 -0600
+
+    segundo scroll
+
+[33mcommit 45e3a1b101c207d6e340c16ac7bfc9abf5fd3768[m
+Author: Victor Espinosa <victor.espinosa@planetmedia.com.mx>
+Date:   Wed Nov 20 20:01:51 2013 -0600
+
+    Actualizacion de scroll
+
+[33mcommit 685c36042b3eddc533687ff6f898a1b50d1309f1[m
+Author: Victor Espinosa <victor.espinosa@planetmedia.com.mx>
+Date:   Wed Nov 20 09:51:00 2013 -0600
+
+    nuevo scroll
+
+[33mcommit f78d2432614940520d4182f5e655f67052f2bab0[m
+Merge: 7c290a6 3794c9f
+Author: Victor Espinosa <victor.espinosa@planetmedia.com.mx>
+Date:   Wed Nov 20 09:47:30 2013 -0600
+
+    Merge branch 'master' of https://github.com/victorjo/santander_Maqueta_final
+
+[33mcommit 3794c9fd2e6b56251345dae870eada986fd8b8f6[m
+Author: Fernando Espinosa <axnotliztac10>
+Date:   Wed Nov 20 09:42:28 2013 -0600
+
+    commit para bajar scroll
+
+[33mcommit 7c290a65fe8e72f9544ec8b7d60e30eb8c4d10ff[m
+Merge: 29d3371 ff465a1
+Author: Victor Espinosa <victor.espinosa@planetmedia.com.mx>
+Date:   Tue Nov 19 21:27:18 2013 -0600
+
+    Merge branch 'master' of https://github.com/victorjo/santander_Maqueta_final
+
+[33mcommit 29d3371cbd27bc4706743e02d50588c54df34b15[m
+Author: Victor Espinosa <victor.espinosa@planetmedia.com.mx>
+Date:   Tue Nov 19 21:26:32 2013 -0600
+
+    Actualizacion en el scroll de Santander
+
+[33mcommit ff465a1854f741013e3eba774ff5a4c47b416b4e[m
+Author: Fernando Espinosa <axnotliztac10>
+Date:   Tue Nov 19 19:50:03 2013 -0600
+
+    vic commit
+
+[33mcommit cd404578ab1b5922b05c96f24eed864d2b38d341[m
+Author: Fernando Espinosa <axnotliztac10>
+Date:   Tue Nov 19 18:52:30 2013 -0600
+
+    aaaaa
+
+[33mcommit 015ae96a07b8e5484669326d0de5fdef15259cb6[m
+Author: Fernando Espinosa <axnotliztac10>
+Date:   Tue Nov 19 18:52:05 2013 -0600
+
+    Revert "aa"
+    
+    This reverts commit 9ecac364693af015fbc17aba95e1f6341ff06296.
+
+[33mcommit 9ecac364693af015fbc17aba95e1f6341ff06296[m
+Author: Fernando Espinosa <axnotliztac10>
+Date:   Tue Nov 19 18:46:28 2013 -0600
+
+    aa
+
+[33mcommit fd7669ae7005c0b7cf8d9fb678b7fad3ee2960c9[m
+Merge: cc48674 7e46ae9
+Author: Fernando Espinosa <axnotliztac10>
+Date:   Tue Nov 19 18:15:03 2013 -0600
+
+    Merge branch 'master' of https://github.com/victorjo/santander_Maqueta_final
+
+[33mcommit cc48674f8b0357874a6f21857745cffb5855ad6d[m
+Author: Fernando Espinosa <axnotliztac10>
+Date:   Tue Nov 19 18:12:30 2013 -0600
+
+    dfsdasdfasdasd with '#' will be ignored, and an empty message aborts the commit.
+
+[33mcommit 7e46ae9a21d5336a4b37fd904c6975ab358eb117[m
+Author: Israel Salinas <israel.salinas@planetmedia.com.mx>
+Date:   Tue Nov 19 18:10:07 2013 -0600
+
+    ajustes de diseño y dimensiones a cajas de texto, bordes y sombras de contenedores
+
+[33mcommit bb68617208b7e6a632fbaf98afb7663447f86028[m
+Merge: 9b8e7c2 ab1aa46
+Author: Israel Salinas <israel.salinas@planetmedia.com.mx>
+Date:   Tue Nov 19 17:41:47 2013 -0600
+
+    Merge branch 'master' of https://github.com/victorjo/santander_Maqueta_final
+
+[33mcommit 9b8e7c2a57c501cafd4f41039995c04aa22863dd[m
+Author: Israel Salinas <israel.salinas@planetmedia.com.mx>
+Date:   Tue Nov 19 17:41:30 2013 -0600
+
+    boton aceptar en rojo
+
+[33mcommit ab1aa468e97670e5cd0df1dad90d7000821850b8[m
+Merge: 79de59b f0257aa
+Author: PedroVent <ppedro_k@hotmail.com>
+Date:   Tue Nov 19 17:36:43 2013 -0600
+
+    widgets reducidos y cambios al nuevo boton de pago de servicios
+
+[33mcommit 79de59bc07efff7705afe57d7c3f24a05e79d7a7[m
+Author: PedroVent <ppedro_k@hotmail.com>
+Date:   Tue Nov 19 17:31:03 2013 -0600
+
+    widgets reducidos
+
+[33mcommit f0257aac20a8ca6628a06c500bbfb26b9a640fbc[m
+Author: Israel Salinas <israel.salinas@planetmedia.com.mx>
+Date:   Tue Nov 19 17:26:44 2013 -0600
+
+    primeros cambios de linea grafica -header bkgnd, colores y densidad de fuentes-
+
+[33mcommit bf05810e7cee92b8082bbdc1cac2f4d441ea2b05[m
+Merge: 211a874 c4d1954
+Author: Israel Salinas <israel.salinas@planetmedia.com.mx>
+Date:   Tue Nov 19 16:45:16 2013 -0600
+
+    Merge branch 'master' of https://github.com/victorjo/santander_Maqueta_final
+
+[33mcommit 211a874074b8546b8f00ffc7db6bac9710e6325f[m
+Author: Israel Salinas <israel.salinas@planetmedia.com.mx>
+Date:   Tue Nov 19 16:44:36 2013 -0600
+
+    Se agregan todas las maquetas de pago de servicios
+
+[33mcommit c4d19547c74a027b589b89888052dd1c48349af2[m
+Author: Fernando Espinosa <axnotliztac10>
+Date:   Tue Nov 19 16:43:18 2013 -0600
+
+    dd responsive grid
+
+[33mcommit 91badfbfa28ecacc10d6b49b079938220630bb66[m
+Author: Victor Espinosa <victor.espinosa@planetmedia.com.mx>
+Date:   Fri Nov 15 19:01:44 2013 -0600
+
+    scrolling
+
+[33mcommit 3086da7c138803798fe15f99579909bffa24811f[m
+Author: PedroVent <ppedro_k@hotmail.com>
+Date:   Fri Nov 15 19:00:32 2013 -0600
+
+    actualizacion de widget5s reducidos balance transfer y pago de servicios
+
+[33mcommit a516c557e40660b015b469e8518cd1c9e91b934c[m
+Author: Israel Salinas <israel.salinas@planetmedia.com.mx>
+Date:   Fri Nov 15 18:54:50 2013 -0600
+
+    ajustes en botonera, adicion de la sección -alta de servicios-
+
+[33mcommit 2c6142893ab1ae89cac424043ffbcb4bd3e9d080[m
+Author: Israel Salinas <israel.salinas@planetmedia.com.mx>
+Date:   Fri Nov 15 16:29:23 2013 -0600
+
+    ajustes en botonera, adicion de la sección -alta de servicios-
+
+[33mcommit 9460ec931abbab67473a68402335fd19fb717c0d[m
+Merge: 9d4c698 3fedac6
+Author: Israel Salinas <israel.salinas@planetmedia.com.mx>
+Date:   Fri Nov 15 11:22:10 2013 -0600
+
+    Comentarios adicionales
+
+[33mcommit 9d4c698981405ff0748b18384925e95d20dec060[m
+Merge: 28f3972 c9f1b17
+Author: Israel Salinas <israel.salinas@planetmedia.com.mx>
+Date:   Fri Nov 15 11:05:06 2013 -0600
+
+    https://github.com/victorjo/santander_Maquieta_final.git
+
+[33mcommit 3fedac65bf337f20a84af6b47b5ae25d1cfa0c48[m
+Author: unknown <axnotliztac10>
+Date:   Fri Nov 15 10:20:52 2013 -0600
+
+    ultimo
+
+[33mcommit 28f39724598e6927674428d3164c459607aa1904[m
+Author: Israel Salinas <israel.salinas@planetmedia.com.mx>
+Date:   Thu Nov 14 22:52:16 2013 -0600
+
+    Creación Alta de servicios 1 y widget reducido
+
+[33mcommit 3b76671059400d72383a58814108bbe89d705e1d[m
+Author: Israel Salinas <israel.salinas@planetmedia.com.mx>
+Date:   Thu Nov 14 22:47:54 2013 -0600
+
+    Creación Alta de servicios 1 y widget reducido
+
+[33mcommit e6d14b1b67c474857466682f4154d70c47cefd24[m
+Author: Israel Salinas <israel.salinas@planetmedia.com.mx>
+Date:   Thu Nov 14 22:45:05 2013 -0600
+
+    Creación Alta de servicios 1 y widget reducido
+
+[33mcommit c9f1b17382ce8be41c3d8b4e84ddf1249061083b[m
+Author: Victor Espinosa <victor.espinosa@planetmedia.com.mx>
+Date:   Thu Nov 14 22:05:53 2013 -0600
+
+    maquetas santander
+
+[33mcommit f8953c1d1c45d5eab12a4eabd18471142e0d8724[m
+Author: Victor Espinosa <victor.espinosa@planetmedia.com.mx>
+Date:   Thu Nov 14 22:05:44 2013 -0600
+
+    maquetas santander
+
+[33mcommit f25322ca8ffa584b597699c585ee262d8065dc49[m
+Merge: a924c75 3cd792c
+Author: Victor Espinosa <victor.espinosa@planetmedia.com.mx>
+Date:   Thu Nov 14 20:51:47 2013 -0600
+
+    Merge branch 'master' of https://github.com/victorjo/santander_Maqueta_final
+    
+    Conflicts:
+    	js/widgets.js
+
+[33mcommit 3cd792ca2e1e947dad0615dbd1daa8dcaacc4fc6[m
+Author: unknown <axnotliztac10>
+Date:   Thu Nov 14 20:38:06 2013 -0600
+
+    add size to widget-max
+
+[33mcommit a924c75f24c29c3c95ba894b7f6982484e221e8d[m
+Author: Victor Espinosa <victor.espinosa@planetmedia.com.mx>
+Date:   Thu Nov 14 20:06:18 2013 -0600
+
+    Ajuste en maqueta
+
+[33mcommit a6b2233b05fa2ea46fd4d0569513a55f0fa6cde8[m
+Author: unknown <axnotliztac10>
+Date:   Thu Nov 14 20:04:59 2013 -0600
+
+    w
+
+[33mcommit 30f77960e5bf9a560f9febbb7b93efd71ac98317[m
+Author: Victor Espinosa <victor.espinosa@planetmedia.com.mx>
+Date:   Thu Nov 14 17:14:26 2013 -0600
+
+    actualizacion en overlay  y flujo de basic transfer
+
+[33mcommit 48eeff9f9bc22c000d5e2271f27f861191692454[m
+Author: Israel Salinas <israel.salinas@planetmedia.com.mx>
+Date:   Thu Nov 14 16:35:05 2013 -0600
+
+    Creación Consulta de servicios1
+
+[33mcommit 97ade56145cd597f719423f2120b660d3766e22c[m
+Author: Victor Espinosa <victor.espinosa@planetmedia.com.mx>
+Date:   Thu Nov 14 12:05:29 2013 -0600
+
+    actualizacion en widget ampliado
+
+[33mcommit f743fb37adb0fb17b658625b214ba945ee66d4dd[m
+Author: unknown <axnotliztac10>
+Date:   Thu Nov 14 10:27:46 2013 -0600
+
+    repair master.html
+
+[33mcommit dd4b514a279f2e222cf0e909f422bddca3fd5d70[m
+Merge: ba22026 055fd58
+Author: Victor Espinosa <victor.espinosa@planetmedia.com.mx>
+Date:   Thu Nov 14 10:21:16 2013 -0600
+
+    Merge branch 'master' of https://github.com/victorjo/santander_Maqueta_final
+    
+    Conflicts:
+    	master.html
+
+[33mcommit ba220267e1cf3e6e62d8f94b049cbc9f5e703502[m
+Author: Victor Espinosa <victor.espinosa@planetmedia.com.mx>
+Date:   Thu Nov 14 10:19:16 2013 -0600
+
+    merge archivos
+
+[33mcommit 7d631a7c584c99dfc9b8384290b25f4538e88bf5[m
+Author: Victor Espinosa <victor.espinosa@planetmedia.com.mx>
+Date:   Thu Nov 14 10:19:02 2013 -0600
+
+    merge archivos
+
+[33mcommit 825ddb67a2c0c51e8c8e9a97c16a12f634415cb5[m
+Author: Victor Espinosa <victor.espinosa@planetmedia.com.mx>
+Date:   Thu Nov 14 10:18:45 2013 -0600
+
+    merge archivos
+
+[33mcommit 7a1669be79c39cb16f631f6063fa151f4c297baf[m
+Author: Victor Espinosa <victor.espinosa@planetmedia.com.mx>
+Date:   Thu Nov 14 10:16:47 2013 -0600
+
+    merge de archivos
+
+[33mcommit cf1a019ed50c3588e30f4aba27651a616c6e06bd[m
+Author: Victor Espinosa <victor.espinosa@planetmedia.com.mx>
+Date:   Thu Nov 14 10:07:48 2013 -0600
+
+    merge de conflictos
+    
+    Conflicts:
+    	master.html
+
+[33mcommit 055fd58a0d41c209bb5ac015fee5d09209e6191f[m
+Author: unknown <axnotliztac10>
+Date:   Thu Nov 14 10:00:29 2013 -0600
+
+    check las -v
+
+[33mcommit 0a350432242ba3810ec88926140551813a805e0c[m
+Author: unknown <axnotliztac10>
+Date:   Wed Nov 13 19:54:43 2013 -0600
+
+    add absolutWrapper and prefinal grid
+
+[33mcommit 8bd4710426f6f45e6d966fecacef524c7dc4cc62[m
+Author: unknown <axnotliztac10>
+Date:   Wed Nov 13 18:34:42 2013 -0600
+
+    dd css to peter
+
+[33mcommit 5dc8e5524fb8dd01996157de0dab5d437bab1bb6[m
+Author: unknown <axnotliztac10>
+Date:   Wed Nov 13 18:33:52 2013 -0600
+
+    repair peter git
+
+[33mcommit 11cf4f1da9a981c0d264922db1ccdf62409a38d7[m
+Author: unknown <axnotliztac10>
+Date:   Wed Nov 13 18:20:57 2013 -0600
+
+    add content to widgets
+
+[33mcommit 4f0769be83d9ecd68bcd89cc424bf690fcc18e6c[m
+Author: unknown <axnotliztac10>
+Date:   Wed Nov 13 17:03:57 2013 -0600
+
+    add best order to widgets
+
+[33mcommit cae04fa0f14c8901ddfbae7a7c9a816f99056ccd[m
+Author: unknown <axnotliztac10>
+Date:   Wed Nov 13 14:09:02 2013 -0600
+
+    add overlay in widgets and calculations
+
+[33mcommit 0d7990d8483997887d6018159afccc3c866ca38a[m
+Author: Victor Espinosa <victor.espinosa@planetmedia.com.mx>
+Date:   Wed Nov 13 10:16:42 2013 -0600
+
+    utiles para supernet, overlay y modal dialog
+
+[33mcommit f1bac68dff01dac8c316774bf4f838e9731b0b06[m
+Author: unknown <axnotliztac10>
+Date:   Tue Nov 12 20:07:30 2013 -0600
+
+    add integration of dynamic components
+
+[33mcommit d98e584de0f2d4e9bf656aa0e5d49f1ca0f655e6[m
+Author: Victor Espinosa <victor.espinosa@planetmedia.com.mx>
+Date:   Tue Nov 12 15:49:53 2013 -0600
+
+    remplazo de boton de navegacion
+
+[33mcommit 95987b7ff86b6202e6473daaac36449aa7b91632[m
+Author: Victor Espinosa <victor.espinosa@planetmedia.com.mx>
+Date:   Tue Nov 12 15:48:52 2013 -0600
+
+    borrado de .png
+
+[33mcommit a2a883d71eb1d658fce89848f3107d966871349b[m
+Author: Victor Espinosa <victor.espinosa@planetmedia.com.mx>
+Date:   Tue Nov 12 15:47:44 2013 -0600
+
+    Maquetado inicial
+
+[33mcommit c588731e5ab331cef78852e0258169946aa9e832[m
+Author: unknown <axnotliztac10>
+Date:   Tue Nov 12 11:25:23 2013 -0600
+
+    This commit adds the widget switch to first plane
+
+[33mcommit 4c244bc4b863435ced2596a8372d4c58801b303b[m
+Author: Victor Espinosa <victor.espinosa@planetmedia.com.mx>
+Date:   Mon Nov 11 11:33:06 2013 -0600
+
+    Documentación
+
+[33mcommit a067dde0fd96bbfa40ce9490afe10309ff0ac7f8[m
+Author: Victor Espinosa <victor.espinosa@planetmedia.com.mx>
+Date:   Mon Nov 11 11:01:52 2013 -0600
+
+    Inicio de proyecto

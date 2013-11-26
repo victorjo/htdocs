@@ -1,0 +1,357 @@
+﻿/*trabajando*/
+*{
+                font-family: Arial, Helvetica, sans-serif;
+                margin: 0;
+
+}
+
+h1,h2,h3,h4,h5{
+        margin-bottom: 10px;
+}
+
+p{}
+
+
+#titulo {
+        background-color: #E8E8E8;
+        border-right:1px solid black;
+        width: 154px;
+        height: 45px;
+        padding: 10px;
+        float: left;
+}
+
+.f_titleWid{
+        font-size: 13px;
+        font-weight: bolder;
+}
+
+.f_titleWidred{
+        font-size: 12px;
+        font-weight: bolder;
+        float:left;
+}
+
+
+
+#header {
+        background-color: #E8E8E8;
+        width: 760px;
+        height: 35px;
+        float: right;
+        border-bottom:1px solid black;
+}
+
+#headerwidred{
+        background-color: #E8E8E8;
+        width: 96%;
+        height: 23px;
+        float: left;
+        border-bottom:1px solid black;
+        padding-top:7px;
+        padding-left:10px;
+        font-size:12px;
+        font-weight:bold;
+
+}
+
+#navegador {
+        background-color: #E8E8E8;
+        border-right:1px solid black;
+        border-top:1px solid black;
+        width: 174px;
+        height: 475px;
+        float: left;
+        position:relative;
+}
+
+#navegador ul{
+        list-style: none;
+        padding:0;
+}
+
+#navegador ul li{
+        float: left;
+        display: block;
+        font-weight: bold;
+        border-bottom: 1px solid black;
+        width: 165px;
+        padding: 10px 0 10px 10px;
+        cursor: pointer;
+}
+
+#navegador ul li:hover{
+        font-weight: normal;
+}
+
+.active{
+        background: #FFFFFF;
+        cursor: pointer;
+        font-weight: normal;
+        border-top:2px solid black;
+}
+
+#contenido {
+     float: right;
+     height: 465px;
+     padding: 20px;
+     position: relative;
+     width: 720px;
+}
+
+#contenido p {
+        line-height: 20px;
+}
+
+
+#widget {
+        border:1px solid black;
+        width: 935px;
+        font-size: 13px !important;
+        margin:auto;
+        overflow: hidden;
+
+}
+
+#widgetred{
+        border:1px solid black;
+        width: 243px;
+        height:281px;
+        font-size: 13px !important;
+        margin:auto;
+        overflow: hidden;
+}
+#titlewidred{
+        border-bottom:1px solid black;
+        height:23px;
+        background-color:F4F4F4;
+        width:100%;
+        float:left;
+        font-size:12px;
+        font-family:Arial, Helvetica, sans-serif;
+        padding:7px 0 0 10px;
+        font-weight:bold;
+}
+
+.txtwidred{
+        background-color:FFFFFF;
+        width:100%;
+        float:left;
+        font-size:11px;
+        font-family:Arial, Helvetica, sans-serif;
+        padding:7px 0 0 10px;
+        text-align:left;
+}
+
+
+
+/**  BALANCE TRANSFER **/
+
+
+.wra_Select{
+                margin-top: 20px;
+                float:left;
+                width:240px;
+        }
+
+.wra_Select2{
+                margin-top: 5px;
+                float:left;
+                width:100%;
+
+        }
+
+.wra_Select3{
+                margin-top: 10px;
+                float:left;
+                width:580px;
+        }
+
+.wra_Select3 input{
+                margin-top: 20px;
+                float:left;
+                width:100%;
+        }
+
+        .tbl_consulta{
+                border:1px solid black;
+        }
+
+        .tbl_consulta th{
+                background: #efefef;
+                text-align: left;
+                padding: 10px;
+                padding-left: 20px;
+                font-size: 12px;
+
+        }
+
+        .tbl_consulta tr:nth-child(1) td{
+                font-weight: bold;
+        }
+
+        .tbl_consulta tr:nth-child(even) td{
+                background-color:#F0F0F0;
+        }
+
+
+        .tbl_consulta td{
+                text-align: center;
+                border-bottom: 1px dotted black;
+                padding:5px;
+                font-size: 11px;
+        }
+
+        .tbl_info{
+                border:1px solid black;
+        }
+
+
+        .tbl_info td{
+                text-align: left;
+                padding:5px;
+                font-size: 11px;
+                border-bottom: 1px
+        }
+
+
+.btn{
+        width:150px;
+        height:23px;
+        padding-top:7px;
+        border-radius:15px 15px 15px 15px;
+        border:thin #D2D2D3 solid;
+        background-color:#D2D2D3;
+        color:black;
+        text-align: center;
+        box-shadow:2px 2px 5px gray;
+        float:left;
+        margin-left:20px;
+        font-size:12px;
+        font-weight:bold;
+
+}
+.btn:hover{
+        background-color:#B8B8B8;
+        color:white;
+        border-color:#B8B8B8;
+        cursor:pointer;
+}
+
+.btnwidred{
+        width:227px;
+        height:23px;
+        padding-top:7px;
+        border-radius:15px 15px 15px 15px;
+        border:thin #D2D2D3 solid;
+        background-color:#D2D2D3;
+        color:black;
+        text-align: center;
+        box-shadow:2px 2px 5px gray;
+        float:left;
+        margin-left:10px;
+        font-size:12px;
+        font-weight:bold;
+
+}
+.btnwidred:hover{
+        background-color:#B8B8B8;
+        color:white;
+        border-color:#B8B8B8;
+        cursor:pointer;
+}
+
+.botonera{
+        float:right;
+        position:relative;
+        bottom:0;
+        right:0;
+        margin-right:30px;
+        margin-bottom:20px;
+}
+
+.radio{
+        width:12px;
+        height:12px;
+        border-radius:7px 7px 7px 7px;
+        border:thin black solid;
+        margin-left:auto;
+        margin-right:auto;
+}
+
+.radiochkd{
+        background-color:black;
+        border-color:black;
+        width:12px;
+        height:12px;
+        border-radius:7px 7px 7px 7px;
+        border:thin black solid;
+        margin-left:auto;
+        margin-right:auto;
+
+}
+
+.aviso{
+        float:right;
+        position:absolute;
+        bottom:0;
+        margin-bottom:10px;
+        margin-right:10px;
+        margin-left:10px
+
+}
+
+.cont{
+
+        border: thin black solid;
+        width:100%;
+        float:left;
+        height:255px;
+}
+
+.input{
+        float:left;
+        margin:10px 0 0 30px;
+        width:35%;
+
+}
+.txtbox{
+        color:#CCCCCC;
+        width:100%;
+        border-color:#999999;
+
+}
+
+#slider {
+     background-color: #E6E8E8;
+     float: left;
+     height: 85px;
+     margin: 10px 0;
+     overflow: hidden;
+     width: 100%;
+}
+
+.serv_in{
+        height:55px;
+        width:55px;
+        margin:15px 0 0 10px;
+        background-color:#C2C2C1;
+        float:left;
+        border-radius: 5px;
+}
+
+.serv_in:hover{
+        background-color:#57595A;
+        cursor:pointer;
+
+}
+
+#rightarrow{
+        margin-left:20px;
+        float:right;
+        height:55px;
+        width:15px;
+        margin-top:-50px;
+}
+
+/*iojuoijioji*/

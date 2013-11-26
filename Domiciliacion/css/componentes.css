@@ -1,0 +1,14 @@
+﻿#form{
+	color:maroon;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:large;
+	font-weight:bold;
+	margin:50px 0 0 50px;
+	width:200px;
+	float:left;
+}
+
+.acomodo td{
+	border:thin black solid;
+	height:50px;
+}

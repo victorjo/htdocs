@@ -1,0 +1,200 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<title>Pago de Servicios1</title>
+<link rel="stylesheet" href="../css/widgets.css">
+
+<script src="../js/jquery10.2.min.js"></script>
+<script src="../js/ddSlick.js"></script>
+<script src="../js/balanceTransfer.js"></script>
+
+
+
+
+
+<style>
+
+.btnHeaderTable{
+	height: 24px;
+    margin: -10px;
+    padding-top: 10px;
+    width: 110px;
+}
+
+.titTabla{
+	margin-bottom:0px;
+	padding:10px 10px 5px 30px;
+	border:1px solid black;
+	border-bottom:0;
+	float:left;
+	width:678px;
+	background:#F4F4F4;
+	margin-top:20px;
+	height:20px;
+	font-weight:bold
+}
+
+.titTabla p{
+	float:left;
+}
+
+.titTabla img{
+	float:right;
+	margin-top:-7px;
+	cursor: pointer;
+}
+</style>
+</head>
+
+<body>
+	
+	<div id="widget">
+		<div id="titulo">
+			<p class="f_titleWid">
+				TRANSFERENCIA <br/>
+				DE SALDOS</p>
+
+		</div>
+		<div id="header">
+		<div class="btnHeader">
+				<img src="../img/botones/btn_cerrar.png"/>
+			</div>
+			<div class="btnHeader">
+				<img src="../img/botones/info_.png"/>
+			</div>
+		</div>
+		<div id="contenido">
+			<h4>Seleccione de su lista de servicios registradros el servicio que desea pagar</h4>
+						
+			<table class="tbl_consulta" style="width:100%;float:left;margin-top:10px">
+
+				<tr>
+					<td style="border:none" colspan="2">Nombre del Servicio</td>
+					<td style="border:none">Convenio</td>
+					<td style="border:none">Último pago</td>
+					<td style="border:none">Importe (MXP)</td>
+					<td style="border:none">Referencia</td>
+					<td style="background-color:black;color:white">Ver lista<br />completa</td>
+					
+				</tr>
+				<tr style="border-collapse:collapse">
+					<td style="border:none"><div class="serv_in" style="width:30px;height:30px; float:left;margin-top:0"></div></td>
+					<td style="border:none">Lorem ipsum</td>
+					<td style="border:none">1234</td>
+					<td style="border:none">dd/mm/aaaa</td>
+					<td style="border:none">999,999,999.00</td>
+					<td style="border:none" colspan="2">1456789009876</td>
+				</tr>
+			</table>
+			
+			<p style="float:left; margin-top:10px">Seleccione de su lista de servicios registradros el servicio que desea pagar</p>
+			
+			<div class="wra_Select3">
+				<select name="" id="" style="width:100%">
+                            
+                            <option value="">Lorem ipsum</option>
+                            <option value="">Opcion1</option>
+                            <option value="">Opcion1</option>
+                            <option value="">Opcion1</option>
+                            <option value="">Opcion1</option>
+                           
+            	</select>
+			
+			</div>
+			
+			<!--<p style="float:left; margin-top:10px; width:50%">Importe:</p>
+			<p style="float:left; margin-top:10px; width:50%">Concepto:</p>-->
+			<div class="input" style="margin-left:0px">
+				<p>Importe:</p>
+				<input class="txtbox" type="text" value=" 999,999,999,999.00" name="Text1" style="width:100%; margin-left:0px"/>
+			</div>
+			
+			<div class="input" style="margin-left:150px">
+				<p>Concepto:</p>
+				<input class="txtbox" type="text" value="13516384351351465463878431515" name="Text1" style="width:100%; margin-left:0px"/>
+			</div>
+			
+			<div class="input" style="margin-left:0px">
+				<p>Referencia de pago:</p>
+				<input class="txtbox" type="text" value="13516384351351465463878431515" name="Text1" style="width:100%; margin-left:0px"/>
+			</div>
+			
+			
+			<div class="input" style="width:50%">
+				<div id="infobtn"><img src="../img/botones/info.png"/></div>
+				
+				
+				
+				<p style="margin-left:93px">Programar fecha:</p>
+			
+				<div class="onoffswitch" style="float:left; margin-left:20px">
+					<input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="myonoffswitch" checked />
+					<label class="onoffswitch-label" for="myonoffswitch">
+					<div class="onoffswitch-inner"></div>
+					<div class="onoffswitch-switch"></div>
+					</label>
+				</div> 
+				
+				<div style="float:left;margin:1px 0 0 25px"><img src="../img/iconos/img_calendario.png"/></div>
+				
+				<div><input class="txtbox" style="width:30%;float:left; margin-left:10px"/>	</div>
+				
+			</div> 
+			
+			<div style="width:100%;float:left;background-color:#EBEDEE;margin-top:10px;height:22px;">
+				<img src="../img/botones/flecha_abajo_dropdown_largo.png" style="float:left;margin:10px 0 0 10px;"/>
+				<p style="margin:3px 0 0 20px; float:left">Quiero notificación previa de mi pago</p>
+			</div>
+			
+			<div class="wra_Select4">
+				<select name="" id="" >  
+							<option value="">3 días</option>
+                            <option value="">Opcion1</option>
+                            <option value="">Opcion1</option>
+                            <option value="">Opcion1</option>
+                            <option value="">Opcion1</option>
+	    
+            	</select>
+			</div>
+			
+			
+			<div style="width:100%;float:left;background-color:#EBEDEE;margin-top:5px;height:22px;">
+				<img src="../img/botones/flecha_abajo_dropdown_largo.png" style="float:left;margin:10px 0 0 10px;"/>
+				<p style="margin:3px 0 0 20px; float:left">Quiero transferir el importe a meses sin intereses</p>
+			</div>
+						
+			<div class="wra_Select4">
+				<select name="" id="" style="width:100%">
+                            
+                            <option value="">Opcion1</option>
+                            <option value="">Opcion1</option>
+                            <option value="">Opcion1</option>
+                            <option value="">Opcion1</option>
+                            <option value="">Opcion1</option>
+                           
+            	</select>
+			
+			</div>
+			
+			<div id="info"><img src="../img/infoimg.png"/></div>			
+			<div class="botonera" style="width:auto;margin-right:20px">
+				<div class="btn">Cancelar</div>
+				<div class="btnaceptar">Continuar</div>
+			</div>
+
+		</div>
+		<div id="navegador">
+			<ul>
+				<li class="active">Pago de Servicios</li>
+				<li>Alta de Servicios</li>
+				<li>Consulta de Servicios</li>
+			</ul>
+			<div class="aviso"><img src="../img/iconos/img_msj.png" />	</div>
+		</div>
+	</div>
+
+</body>
+
+</html>
